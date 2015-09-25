@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 ####Git Repository
 
 | DESCRIPTION        | CHECKOUT COMMAND          |
