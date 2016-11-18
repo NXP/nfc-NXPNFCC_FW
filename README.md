@@ -18,4 +18,4 @@
 | android-6.0.1_r17                    |  4.5.0_M (PN551/PN548C2)   |  NFC_NCIHALx_AR3C.4.5.0_M_OpnSrc |
 | android-6.0.1_r17                    |  4.7.0_M (PN553)   |  NFC_NCIHALx_ARC0.4.7.0_M_OpnSrc |
 | android-6.0.1_r17                    |  4.8.0_M (PN551/PN548C2)   |  NFC_NCIHALx_AR3C.4.8.0_M_OpnSrc |
-
+| android-7.0.0_r12                     |  7.1.0_N (PN548C2/PN551/PN553) |  NFC_NCIHALx_ARFC.7.1.0_N_OpnSrc |
