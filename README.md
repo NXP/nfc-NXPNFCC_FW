@@ -25,3 +25,4 @@
 | android-7.1.1_r1                     |  7.5.0_N (PN553) |  NFC_NCIHALx_ARC0.7.5.0_N_OpnSrc |
 | android-o-preview2                     |  8.0.9_O (PN553/PN557) |  NFC_NCIHALx_AR1800.8.0.9_O_OpnSrc |
 | android-o-preview2                     |  8.0.C_O (PN553/PN557) |  NFC_NCIHALx_AR1800.8.0.C_O_OpnSrc |
+| android-o-preview2                     |  8.0.13_O (PN553/PN557) |  NFC_NCIHALx_AR18C0.8.0.13_O_OpnSrc |
