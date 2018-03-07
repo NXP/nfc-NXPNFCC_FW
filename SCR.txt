@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+--------------------------------------------
+Outgoing License:          NXP EULA  
+License File:              EULA.txt
+Package Category:          NFC Firmware 
+Type of content:           Binaries  
+Description and comments:  NFC controller firmware 
+Release Location:          github.com/NXP  
+Origin:                    NXP (proprietary)  
+
+--------------------------------------------
