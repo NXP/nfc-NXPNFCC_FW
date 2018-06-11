@@ -39,3 +39,4 @@
 | :-------------: |:-------------:| :-----:|
 | aosp-master               |  9.00.02 (SN100x) |  NFC_NCIHALx_AR2000.09.00.02_OpnSrc |
 | aosp-master               |  9.00.03 (SN100x) |  NFC_NCIHALx_AR2000.09.00.03_OpnSrc |
+| android-p-preview 2               |  9.00.07 (SN100x) |  NFC_NCIHALx_AR2000.09.00.07_OpnSrc |
