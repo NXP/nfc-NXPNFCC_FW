@@ -32,9 +32,14 @@
 | android-8.0.0_r4               |  8.3.0_O (PN548C2/PN551/PN553) |  NFC_NCIHALx_AR0054.8.3.0_O_OpnSrc |
 | android-8.0.0_r4               |  8.3.0_O (PN548C2/PN551) |  NFC_NCIHALx_AR003C.8.3.0_O_OpnSrc |
 | android-8.0.0_r4/android-8.1.0_r7              |  8.4.0_O (PN548C2/PN551/PN553/PN557) |  NFC_NCIHALx_AR00C0.8.4.0_OpnSrc |
+
+####Supported Versions on "br_android_ncihalx_row_p" Branch
+
+| Android Version        | NXP Release          | NXP Tag  |
+| :-------------: |:-------------:| :-----:|
 | android-p-preview 2               |  9.0.D (PN553) |  NFC_NCIHALx_AR00C0.9.0.D_OpnSrc |
 
-####Supported Android Versions
+####Supported Android Versions on "br_android_ncihalx_p" Branch
 
 | Android Version        | NXP Release          | NXP Tag  |
 | :-------------: |:-------------:| :-----:|
