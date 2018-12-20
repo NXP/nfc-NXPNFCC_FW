@@ -55,3 +55,4 @@
 | android-p-preview 2               |  9.00.13 (SN100x) |  NFC_NCIHALx_AR2000.09.00.13_OpnSrc |
 | android-p-preview 2               |  9.00.15 (SN100x) |  NFC_NCIHALx_AR2000.09.00.15_OpnSrc |
 | android-p-preview 2               |  9.00.16 (SN100x) |  NFC_NCIHALx_AR2000.09.00.16_OpnSrc |
+| android-p-preview 2               |  9.00.17 (SN100x) |  NFC_NCIHALx_AR2000.09.00.17_OpnSrc |
