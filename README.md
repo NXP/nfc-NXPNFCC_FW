@@ -80,7 +80,7 @@
 | android-8.0.0_r4               |  8.2.3_O (PN557) |  NFC_NCIHALx_AR18C0.8.2.3_O_OpnSrc | 12.01.03 |
 | android-8.0.0_r4               |  8.3.0_O (PN548C2/PN551/PN553) |  NFC_NCIHALx_AR0054.8.3.0_O_OpnSrc | 10.05.0A 10.01.23 |
 | android-8.0.0_r4               |  8.3.0_O (PN548C2/PN551) |  NFC_NCIHALx_AR003C.8.3.0_O_OpnSrc | 10.05.0A 10.01.23 |
-| android-8.0.0_r4/android-8.1.0_r7              |  8.4.0_O (PN548C2/PN551/PN553/PN557) |  NFC_NCIHALx_AR00C0.8.4.0_OpnSrc | |
+| android-8.0.0_r4/android-8.1.0_r7              |  8.4.0_O (PN548C2/PN551/PN553/PN557) |  NFC_NCIHALx_AR00C0.8.4.0_OpnSrc | 11.01.16 |
 
 
 
