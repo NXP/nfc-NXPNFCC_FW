@@ -32,7 +32,7 @@
 | android-9.0.0_r3              |  9.3.0 (PN553) |  NFC_NCIHALx_AR0040.9.3.0_OpnSrc | 11.01.18 |
 | android-9.0.0_r3              |  9.4.0 (PN553) |  NFC_NCIHALx_AR00C0.9.4.0_OpnSrc | 11.01.1A |
 | android-9.0.0_r3              |  9.5.0 (PN557) |  NFC_NCIHALx_AR1800.9.5.0_OpnSrc | 12.01.0F |
-| android-9.0.0_r3              |  9.6.0 (PN80T/PN81T) |  NFC_NCIHALx_AR18C0.9.6.0_OpnSrc | 11.01.1C 12.01.10 |
+| android-9.0.0_r3              |  9.6.0 (PN80T/PN81T) |  NFC_NCIHALx_AR18C0.9.6.0_OpnSrc | 11.01.1C  12.01.10 |
 
 #### Supported Android Versions
 
