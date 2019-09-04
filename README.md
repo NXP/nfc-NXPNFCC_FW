@@ -22,6 +22,7 @@
 | :-------------: |:---------------------:| :-----:| :---------:|
 | aosp-master                |  10.01.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_10.01.00_OpnSrc  | 11.01.1D       12.01.10 |
 | aosp-master                |  10.02.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_10.02.00_OpnSrc  | 11.01.1D       12.01.10 |
+| android-10.0.0_r2                |  10.03.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_10.03.00_OpnSrc  | 11.01.1D       12.01.10 |
 
 #### Supported Android Versions
 
