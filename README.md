@@ -59,6 +59,8 @@
 | android-p-preview 2               |  9.00.19 (SN100x) |  NFC_NCIHALx_AR2000.09.00.19_OpnSrc | 01.10.18 |
 | android-p-preview 2               |  9.00.07 (SN100x) |  NFC_NCIHALx_AR6000.09.00.07_OpnSrc | 01.10.27 |
 | android-p-preview 2               |  9.00.08 (SN100x) |  NFC_AR_00_2000_09.00.08_OpnSrc | 01.10.27 |
+| android-p-preview 2               |  9.00.1A (SN100x) |  NFC_NCIHALx_AR2000.09.00.1A_OpnSrc | 01.10.18 |
+| android-p-preview 2               |  9.00.1B (SN100x) |  NFC_NCIHALx_AR2000.09.00.1B_OpnSrc | 01.10.19 |
 
 
 #### Support for Legacy Android Versions
