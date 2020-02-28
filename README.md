@@ -13,6 +13,15 @@
 
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:-------------:| :-----:| :---------:|
+| aosp-master              |  11.01.00 (SN110)	 |  NFC_AR_00_6000_11.01.00_OpnSrc | 01.10.51 |
+
+
+
+
+#### Supported Android Versions - Q
+
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:-------------:| :-----:| :---------:|
 | aosp-master               |  10.00.04 (SN100x)	 |  NFC_AR_00_2000_10.00.04_OpnSrc | 01.10.23 |
 | aosp-master               |  10.00.06 (SN110x)	 |  NFC_AR_00_6000_10.00.06_OpnSrc | 01.10.26 |
 | aosp-master               |  10.00.08 (SN100x)	 |  NFC_AR_00_6000_10.00.08_OpnSrc | 01.10.31 |
