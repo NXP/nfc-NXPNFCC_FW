@@ -9,7 +9,7 @@
 | NXPNFCC_FW    |  git clone https://github.com/NXPNFCProject/NXPNFCC_FW.git |
 
 
-#### Supported Android Versions - Q
+#### Supported Android Versions - 11
 
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:-------------:| :-----:| :---------:|
