@@ -30,6 +30,12 @@
 | aosp-master               |  10.00.0C (SN110x)	 |  NFC_AR_00_6000_10.00.0C_OpnSrc | 01.10.35 |
 | android-10.0.0_r2              |  10.00.0D (SN110x)	 |  NFC_AR_00_6000_10.00.0D_OpnSrc | 01.10.36 |
 | android-10.0.0_r2              |  10.00.0F (SN110x)	 |  NFC_AR_00_6000_10.00.0F_OpnSrc | 01.10.50 |
+| android-10.0.0_r2              |  10.00.14 (SN1xx)	 |  NFC_AR_00_6000_10.00.14_OpnSrc | 01.10.53 |
+
+
+
+
+
 
 #### Supported Version on "br_android_ncihalx_row_q" branch
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
