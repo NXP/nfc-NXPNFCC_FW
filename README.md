@@ -14,7 +14,7 @@
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:-------------:| :-----:| :---------:|
 | aosp-master              |  11.01.00 (SN110)	 |  NFC_AR_00_6000_11.01.00_OpnSrc | 01.10.51 |
-
+| aosp-master              |  11.02.00 (SN110)	 |  NFC_AR_00_6000_11.02.00_OpnSrc | 01.10.53 |
 
 
 
