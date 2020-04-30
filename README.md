@@ -9,12 +9,21 @@
 | NXPNFCC_FW    |  git clone https://github.com/NXPNFCProject/NXPNFCC_FW.git |
 
 
-#### Supported Android Versions - 11
+#### Supported Android Versions - 11 -SN1xx
 
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:-------------:| :-----:| :---------:|
 | aosp-master              |  11.01.00 (SN110)	 |  NFC_AR_00_6000_11.01.00_OpnSrc | 01.10.51 |
 | aosp-master              |  11.02.00 (SN110)	 |  NFC_AR_00_6000_11.02.00_OpnSrc | 01.10.53 |
+
+
+
+
+#### Supported Versions - 11 - PN8xT
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:---------------------:| :-----:| :---------:|
+| aosp-master                |  11.01.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_11.01.00_OpnSrc  | 11.01.23  12.01.16 |
+
 
 
 
@@ -37,7 +46,7 @@
 
 
 
-#### Supported Version on "br_android_ncihalx_row_q" branch
+#### Supported Version 
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
 | aosp-master                |  10.01.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_10.01.00_OpnSrc  | 11.01.1D       12.01.10 |
