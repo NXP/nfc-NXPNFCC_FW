@@ -9,6 +9,13 @@
 | NXPNFCC_FW    |  git clone https://github.com/NXPNFCProject/NXPNFCC_FW.git |
 
 
+
+#### Supported Version on "br_android_ncihalx_comm_12" branch
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:---------------------:| :-----:| :---------:|
+| aosp-master           |  12.51.00 (SN110) |  NFC_AR_00_02.00_6000_12.51.00_OpnSrc | 01.10.5E |
+
+
 #### Supported Android Versions - 11 -SN1xx
 
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
