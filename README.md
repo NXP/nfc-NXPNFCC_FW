@@ -8,6 +8,12 @@
 | :-------------: |:-------------:| 
 | NXPNFCC_FW    |  git clone https://github.com/NXPNFCProject/NXPNFCC_FW.git |
 
+#### Supported Versions - 12 - PN8xT
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:---------------------:| :-----:| :---------:|
+| aosp-master                |  12.01.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_12.01.00_OpnSrc  | 11.21.25  12.41.16 |
+
+
 
 
 #### Supported Version 12 - SNxxx
