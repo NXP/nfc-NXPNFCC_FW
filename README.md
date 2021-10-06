@@ -23,6 +23,7 @@
 | aosp-master           |  12.02.01 (SN100/SN110/SN220) |  NFC_AR_00_E000_12.02.01_OpnSrc | 01.10.5F 01.01.13 |
 | aosp-master           |  12.04.01 (SN100/SN110/SN220) |  NFC_AR_00_E000_12.04.01_OpnSrc | 01.10.60 01.01.15 |
 | aosp-master           |  12.07.00 (SN100/SN110) |  NFC_AR_00_E000_12.07.00_OpnSrc | 01.10.61 |
+| android-12.0.0_r2          |  12.0D.00 (PN557/SN100/SN110) |  NFC_AR_00_E800_12.0D.00_OpnSrc | 01.10.65 12.21.23 |
 
 
 
