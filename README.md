@@ -12,7 +12,7 @@
 #### Supported Version 13 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
-| aosp-master            |  13.02.01 (SN100/SN110/SN220/PN557) |  NFC_AR_00_E800_13.02.01_OpnSrc | 01.10.24 01.10.68 12.21.25 |
+| aosp-master            |  13.02.01 (SN100/SN110/SN220/PN557) |  NFC_AR_00_E800_13.02.01_OpnSrc | 01.10.68 01.10.24 12.21.25 |
 
 
 
