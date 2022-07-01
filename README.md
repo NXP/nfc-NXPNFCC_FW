@@ -18,6 +18,15 @@
 
 
 
+#### Supported Version - 13 - PN8xT
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:---------------------:| :-----:| :------:|
+| android-13-preview-1              |  13.01.00 (PN80T/PN81T/PN553/PN557) |  NFC_AR_00_18C0_13.01.00_OpnSrc | 11.21.25  12.41.16 |
+
+
+
+
+
 
 
 
