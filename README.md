@@ -13,7 +13,7 @@
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
 | aosp-master   |  14.02.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_1E800_14.02.00_OpnSrc | 01.10.6A 01.01.2D 12.21.25 |
-
+| aosp-master   |  14.03.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_1E800_14.03.00_OpnSrc | 01.10.6A 01.01.2D 12.21.25 |
 
 
 
