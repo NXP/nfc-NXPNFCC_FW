@@ -17,6 +17,11 @@
 | aosp-master   |  14.04.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_1E800_14.04.00_OpnSrc | 01.10.6A 01.01.2E 12.21.25 |
 
 
+
+
+
+
+
 #### Supported Version 13 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
@@ -24,6 +29,9 @@
 | aosp-master            |  13.03.00 (SN100/SN110/SN220) |  NFC_AR_00_E800_13.03.00_OpnSrc | 01.10.68 01.01.25 |
 | android-13-preview-1   |  13.09.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_1E800_13.09.00_OpnSrc | 01.10.69 01.01.2A |
 | android-13.0.0_r3   |  13.0B.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_1E800_13.0B.00_OpnSrc | 01.10.6A 01.01.2B 12.21.25 |
+| android-13.0.0_r3   |  13.0D.01 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_1E800_13.0D.01_OpnSrc | 01.10.6A 01.01.2F 12.21.25 |
+
+
 
 
 #### Supported Version - 13 - PN8xT
