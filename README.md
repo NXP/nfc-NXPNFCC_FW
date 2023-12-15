@@ -11,7 +11,7 @@
 #### Supported Version 15 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
-| aosp-master   |  15.02.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_3E800_15.02.00_OpnSrc | 01.10.6C 01.01.3A 12.21.25 |
+| aosp-main   |  15.02.00 (PN557/PN560/SN100/SN110/SN220) |  NFC_AR_00_3E800_15.02.00_OpnSrc | 01.10.6C 01.01.3A 12.21.25 |
 
 
 
