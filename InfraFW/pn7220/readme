@@ -1,0 +1,4 @@
+User need to check what is the FW version on the IC (How to check FW version: https://www.nxp.com/docs/en/user-guide/UG10068.pdf).
+If FW version is 3.1.0, first update to version 3.1.8 and then to 3.2.x. Otherwise the IC will be corrupted without possibility to repair it.
+If FW version is 3.1.8 user can directly update to 3.2.x (but downgrade to 3.1.0 is not allowed).
+Be aware that when IC is on version 3.2.x there is no downgrade possible
