@@ -8,6 +8,14 @@
 | :-------------: |:-------------:| 
 | NXPNFCC_FW    |  git clone https://github.com/NXPNFCProject/NXPNFCC_FW.git |
 
+#### Supported Version 16 - SNxxx
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:---------------------:| :-----:| :---------:|
+
+
+
+
+
 #### Supported Version 15 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
