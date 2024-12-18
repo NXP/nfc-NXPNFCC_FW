@@ -11,6 +11,7 @@
 #### Supported Version 16 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
+| aosp-main      |  16.02.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.02.00_OpnSrc | 01.10.6D 01.01.41* 02.20.48* 12.21.25 "*Yet to be released" |
 
 
 
