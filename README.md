@@ -13,7 +13,7 @@
 | :-------------: |:---------------------:| :-----:| :---------:|
 | aosp-main      |  16.02.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.02.00_OpnSrc "This is a preliminary release for specific use. Please DO NOT USE/INTEGRATE for commercial purposes. Use it for engineering and test purposes only. For any other purposes stick to the communicated release plan." | 01.10.6D 01.01.41* 02.20.48* 12.21.25 *Yet to be released |
 | aosp-main      |  16.03.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.03.00_OpnSrc | 01.10.6D 01.01.41 02.20.48 12.21.25 |
-
+| aosp-main      |  16.04.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.04.00_OpnSrc | 01.10.6D 01.01.41 02.20.48 12.21.25 |
 
 
 
