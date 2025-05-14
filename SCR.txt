@@ -1,5 +1,5 @@
 NXP Software Content Register
-Outgoing License: LA_OPT_NXP_Software_License v58 November 2024
+Outgoing License: LA_OPT_NXP_Software_License v60 February 2025
 License File:     LA_OPT_NXP_Software_License.pdf
 --------------------------------------------
 Outgoing License:          LA_OPT_NXP_Software_License 
