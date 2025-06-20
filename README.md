@@ -16,6 +16,7 @@
 | aosp-main      |  16.04.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.04.00_OpnSrc | 01.10.6D 01.01.41 02.20.48 12.21.25 |
 | aosp-main      |  16.05.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.05.00_OpnSrc | 01.10.6D 01.01.41 02.20.48 12.21.25 |
 | aosp-main      |  16.06.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.06.00_OpnSrc | 01.10.6D 01.01.42 02.20.4A 12.21.25 |
+| android-16.0.0_r2      |  16.07.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_16.07.00_OpnSrc | 01.10.6D 01.01.42 02.20.4A 12.21.25 |
 
 #### Supported Version 15 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
