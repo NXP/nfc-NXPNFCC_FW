@@ -1,0 +1,143 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2025-12-16T15:41:04Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.26"
+  },
+  "name": "nfcfw_nci_reader-PN7220_FW_02v05",
+  "dataLicense": "CC0-1.0",
+  "hasExtractedLicensingInfos": [
+    {
+      "name": "LA_OPT_NFC_Infra v2 December 2024",
+      "licenseId": "LicenseRef-37d37522-de21-4495-aafe-149c29add306",
+      "extractedText": "LA_OPT_NFC_Infra_02 December 2024\nNFC Infrastructure Software License and Distribution Agreement\nIMPORTANT - READ CAREFULLY: This NFC Infrastructure Software License and Distribution Agreement (“Agreement”) is a legal and binding agreement between you, either an individual or entity (“Licensee”) and NXP Semiconductors Netherlands B.V., a company having its registered office at High Tech Campus 60, 5656 AG Eindhoven, the Netherlands (“NXP”). NXP and Licensee are occasionally referred to in this Agreement individually as a “Party” and collectively as the “Parties”. This Agreement governs the use of the Licensed Materials (defined below). BY LICENSEE INDICATING ITS ACCEPTANCE OF THIS AGREEMENT OR BY LICENSEE INSTALLING OR USING THE LICENSED MATERIALS, LICENSEE AGREES TO ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU (LICENSEE) DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT INSTALL OR USE THE LICENSED MATERIALS.\n1.\nDefinitions. In addition to other terms defined elsewhere in this Agreement, the following terms, when the first letter is capitalized, shall have the meanings set forth below.\n1.1\n“Affiliate” means: (a) with respect to NXP, (i) any Person Controlled by NXP Semiconductors N.V. or (ii) any Person Controlled by any transferee of all or substantially all of the assets of NXP Semiconductors N.V., where; provided, any such Person described in clause (i) or (ii) shall be deemed to be an “Affiliate” only for so long as such Person is Controlled by NXP Semiconductors N.V. or such transferee, and (b) with respect to Licensee, any corporation or other legal entity that Licensee now or hereafter Controls, is Controlled by or is under common Control with; an entity may be considered an Affiliate of Licensee only when such Control exists. “Control” or “Controlled” means the direct or indirect beneficial ownership of more than fifty percent (50%) of the voting stock, or decision-making authority in the event that there is no voting stock, in another entity.\n1.2\n“Licensed Materials” mean the software (in object code or source code form) and/or documentation with which this Agreement is provided, and all upgrades, updates and/or information relating thereto that NXP may (in its sole discretion) provide to Licensee under this Agreement.\n1.3\n“Licensed Software” means any software included in the licensed materials.\n1.4\n“Licensee Platform(s)” means any module or product developed by or for Licensee, which incorporates a NXP Chip and integrates any Redistributable Object Code, for use in Products.\n1.5\n“Modification(s)” means all derivative works, updates, improvements, enhancements, transformations and modifications of any portion of the Licensed Materials, made by or for Licensee.\n1.6\n“NXP Chip(s)” means any of the following integrated circuit(s) manufactured by NXP or under license of NXP, which utilize the Licensed Materials: CLRC632, CLRC663, MFRC631, MFRC630, SLRC610, MFRC500, SLRC400, MFRC522, MFRC523, MFRC530, MFRC531, MFRX852, PR601, PRH601, PR533, PN512, PN531, PN532, PN533, PN71x PN51x, PN7462 family, PN76 family, NT3X family, CTN and CRN families, NTP5X and NTA5X families or equivalent products.\n1.7\n“Open Source Licensing Terms” means terms in any license for software which require, as a condition of use, modification and/or distribution of such software or other software incorporated into, derived from or distributed with such software (a “Work”), any of the following: (a) the making available of source code or design information regarding the Work; (b) the granting of permission for creating derivative works regarding the Work; or (c) the granting of a royalty-free license to any party under intellectual property rights regarding the Work. By means of example and without limitation, Open Source Licensing Terms include the following licenses or distribution models: (i) the GNU General Public License (GPL) or Lesser/Library GPL (LGPL), (ii) the Artistic License (e.g. PERL), (iii) the Mozilla Public License, (iv) the Common Public License, (v) the Sun Community Source License (SCSL), (vi) the Sun Industry Standards Source License (SISSL), and (vii) the Open Software License.\n1.8\n“Product(s)” means any device made by or for Licensee, or by or for its OEM Customers, which incorporates a Licensee Platform with a NXP Chip.\n1.9\n“Redistributable Object Code” means any: (a) object code portions of the Licensed Materials provided by NXP to Licensee hereunder, (b) source code portions of the Licensed Materials, provided by NXP to Licensee hereunder, that have been compiled into object code form, and/or (c) Modifications that have been compiled into object code form or the avoidance of doubt, Redistributable Object Code is solely in object code form.\n1.10\n“Software Content Register” means the documentation accompanying the Licensed Software which identifies the contents of the Licensed Software, including but not limited to identification of any Third Party Software. The Software Content Register may be provided to Licensee with any of the following: a separate document, a digital file, release notes, a Licensor support website, or software code (“Notice File”) that may contain notices pertaining to such Third Party Software.\n1.11\n“Third Party Software” means certain software code and/or materials, including, without limitation, open source software components, that are written or owned by third parties.\n2.\nLicense.\n2.1\nSeparate license grants to Third Party Software, or other terms applicable to the Licensed Software if different from those granted in this Section 2, are contained in a Software Content Register. The Licensed Software is accompanied by a Software Content Register which will identify that portion of the Licensed Software, if any, that is subject to the different terms in Appendix A.\n2.2\nSource Code License. Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee a worldwide, non-exclusive, non-transferable, royalty-free copyright license in the Licensed Materials, without the right to sublicense (except as permitted in Section 2.3), to internally use and create Modifications based upon the source code portions of the Licensed Materials that are provided by NXP to Licensee hereunder, and to compile such source code portions of the Licensed Materials and Modifications into Redistributable Object Code. The Redistributable Object Code may only be used incorporated in, or in conjunction with, the Licensee Platforms incorporating NXP Chips. Licensee shall be allowed to redistribute its Modifications of the source code to Licensee’s customers, provided that each of such customer (i) has downloaded and installed the Licensed Materials from the NXP internet, (ii) has accepted the same license agreement as the Agreement, and (iii) has agreed that the Modifications provided to such customer shall be deemed to be Modifications under customer’s own license agreements with NXP. Section 2.3 (“Authorized Contractors”) shall not be applicable to the redistribution of Modifications.\n2.3\nObject Code License. Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee a worldwide, non-exclusive, non-transferable, royalty-free copyright license in the Licensed Materials, without the right to sublicense (except as permitted in Sections 2.3 and 2.4), to use, reproduce, create, manufacture, have manufactured, distribute, and have distributed the Redistributable Object Code. The Redistributable Object Code may only be used and distributed incorporated in, or in conjunction with, the Licensee Platforms incorporating NXP Chips, solely for use in Products. No right is granted to Licensee to distribute the Redistributable Object Code as a standalone product.\n2.4\nAuthorized Contractors. Licensee may grant a sublicense, under its license rights granted under Sections 2.1 and 2.2 to a contractor of Licensee (“Authorized Contractor”), without the right to further sublicense, solely as necessary for the development of Licensee’s Platforms and/or Licensee’s Products; provided, however, that such Authorized Contractor executes a written agreement with Licensee in which such Authorized Contractor has agreed in writing to provisions that substantially provide that the Authorized Contractor shall:\n(a)\nbe bound by obligations of confidentiality at least as restrictive as the confidentiality provisions of this Agreement;\n(b)\nuse the Licensed Materials only on the behalf of Licensee for the certification of Licensee’s Platforms and/or Licensee’s Products; and\n(c)\ncomply with the license restrictions under Section 3.\nLicensee shall be liable to NXP for such Authorized Contractor’s violations of the confidentiality provisions of this Agreement or the Authorized Contractor’s intentional or unintentional misappropriation of or loss of NXP’s intellectual property rights or ownership of the Licensed Materials or Modifications.\n2.4 OEM Customers. Licensee may grant sublicenses, under its license rights granted under Section 2.2 to original equipment manufacturer customers of Licensee (“OEM Customers”), only in respect to the Redistributable Object Code that is incorporated in, or for use in conjunction with, the Licensee Platform and solely for use with NXP Chips in such OEM Customer’s Products; provided, however, that such Redistributable Object Code is subject to a written software license agreement, in the form that Licensee normally uses for protecting its own software of like nature, executed by such OEM Customer and Licensee, which shall include at a minimum provisions that materially provide:\n(d)\nthat such Redistributable Object Code is to be used only for the development of the OEM Customer’s Products;\n(e)\nthat such Redistributable Object Code may be distributed only in Products with NXP Chips;\n(f)\nthat the OEM Customer will comply with the license restrictions under Section 3; and\n(g)\nthat such Redistributable Object Code shall be protected as the confidential information of NXP under obligations of confidentiality no less restrictive than the confidentiality provisions of this Agreement.\n2.5 End User’s Right to use the Redistributable Object Code. The rights granted hereunder include the right for any end user to personally use the Redistributable Object Code as integrated in a Product with an NXP Chip, and that such right of use shall survive any expiration or termination of this Agreement.\n3.\nLicense Restrictions. The license granted in Section 2 does not include any license, right, power or authority to cause the Licensed Materials or Modifications, in whole or in part, to be subject to Open Source Licensing Terms. Licensee shall not, and shall not permit any third party to (i) reverse engineer, decompile or disassemble any object code portions of the Licensed Materials, (ii) remove or alter any proprietary markings or notices from the Licensed Materials, or (iii) otherwise use any portion of the Licensed Materials or Modifications in any manner not expressly authorized in Section 2 of this Agreement.\n4.\nConfidentiality. The Licensed Materials include confidential and proprietary information and materials and may include trade secrets. Licensee agrees to use the Licensed Materials only for the purposes expressly permitted under this Agreement. Licensee agrees to maintain the confidentiality of the Licensed Materials by not disclosing the Licensed Materials to any third parties, except\nto the extent expressly permitted under this Agreement, provided that the recipient shall be subject to nondisclosure agreements at least as restrictive as the confidentiality provisions of this Agreement. Licensee agrees to use at least the same physical and other security measures for the Licensed Materials as Licensee uses for its own highly confidential information and documentation, however, in no event less than a reasonable degree of care. Licensee agrees that it shall be responsible for violations of this obligation by its employees, contractors and/or any third party receiving such licensed Materials from Licensee. Licensee agrees to notify NXP promptly in the event of circumstances in which it would appear that any portion of the Licensed Materials have been prejudiced or exposed to loss or disclosure, and Licensee shall, upon NXP’s request, take reasonable steps necessary to recover any such compromised Licensed Materials. The cost of taking such reasonable steps shall be borne solely by Licensee. Notwithstanding the above, this Section 4 does not apply to Redistributable Object Code.\n5.\nOwnership; Reservation of Rights. This Agreement does not transfer any ownership interest in the Licensed Materials. NXP and its Affiliates shall have the right to use (i) any Modifications and (ii) any feedback provided by Licensee to NXP relating to the Licensed Materials and its related Documentation without any limitation for any purpose. In the event that Licensee at any time creates any Modification or any intellectual property rights related to the Licensed Software or to any Modifications thereto, Licensee hereby grants NXP and NXP’s Affiliates a fully paid-up, royalty free, perpetual, irrevocable, world-wide, non-exclusive license under such intellectual property rights to use, modify, sell, copy, license, distribute, change, amend, modify, reconfigure, alter, improve, translate, transform, and make derivate work from the Licensed Software Modifications and to grant sub-licenses on the same terms to any third party. For the avoidance of doubts, Licensee has no obligation under this Section 5 to provide any Modification as such to NXP.\n6.\nTerm; Termination; Effects. his Agreement shall commence on the date that Licensee accepts this Agreement (by Licensee indicating its acceptance of this Agreement or by Licensee installing or using the Licensed Materials) and shall remain in effect until terminated as provided in this Section 6 (the “Term”). Licensee may terminate this Agreement, at any time for any or no reason. This Agreement will automatically terminate if Licensee fails to comply with any of the terms of this Agreement. Upon any termination of this Agreement: (i) all rights and licenses granted to Licensee under this Agreement shall immediately terminate; (ii) Licensee shall promptly return to NXP or, at NXP’s discretion, destroy all of the Licensed Materials, Modifications and all whole and partial copies thereof (including without limitation all Redistributable Object Code); (iii) within thirty (30) days after such termination, Licensee shall furnish to NXP a written certification that all of the Licensed Materials, Modifications and all whole and partial copies thereof, have been (a) destroyed or returned to NXP, and (b) erased from all of Licensee’s storage elements and devices; and (iv) Licensee shall not keep any archival copies of the Licensed Materials or Modifications except and only to the extent that applicable law notwithstanding this limitation expressly permits such. All defined terms, Section 2.5 and Sections 3 through 12 shall survive any termination of this Agreement. In addition, any termination of this Agreement shall not affect the rights of Licensee’s customers regarding Redistributable Object Code properly furnished to such customers before such termination.\n7.\nRemedies. Licensee acknowledges and agrees that, if NXP is required to bring an action to enforce the provisions of this Agreement, the damages may be irreparable and difficult to measure and NXP shall be entitled to seek equitable relief including a preliminary injunction in addition to any other relief available. Licensee agrees that in the event that NXP seeks an injunction hereunder, Licensee hereby waives any requirement for the posting of a bond or any other security.\n8.\nDisclaimer. THE LICENSED MATERIALS ARE PROVIDED ON AN “AS IS” AND “WITH ALL FAULTS” BASIS. NXP, ITS AFFILIATES AND THEIR SUPPLIERS EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY, OR ARISING OUT OF THE USE OR PERFORMANCE, OF THE LICENSED MATERIALS REMAINS WITH LICENSEE.\n9.\nLimitation of Liability. IN NO EVENT SHALL NXP, ITS AFFILIATES OR THEIR SUPPLIERS BE LIABLE TO LICENSEE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE, OR INCIDENTAL DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF BUSINESS, BUSINESS INTERRUPTION, LOSS OF USE, LOSS OF DATA OR INFORMATION, AND THE LIKE) ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE LICENSED MATERIALS, WHETHER OR NOT BASED ON TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OF CONTRACT, BREACH OF WARRANTY OR ANY OTHER THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANY DAMAGES THAT LICENSEE MIGHT INCUR FOR ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ALL DAMAGES REFERENCED ABOVE AND ALL DIRECT OR GENERAL DAMAGES), THE ENTIRE LIABILITY OF NXP, ITS AFFILIATES AND THEIR SUPPLIERS UNDER ANY PROVISION OF THIS AGREEMENT AND LICENSEE’S EXCLUSIVE REMEDY FOR ALL OF THE FOREGOING SHALL BE LIMITED TO ACTUAL DAMAGES INCURRED BY LICENSEE BASED ON REASONABLE RELIANCE UP TO THE GREATER OF THE AMOUNT ACTUALLY PAID BY LICENSEE UNDER THIS AGREEMENT OR FIVE U.S. DOLLARS (U.S. $5.00). THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE.\n10.\nGoverning Law; Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of The Netherlands without regard to any principle of conflicts of law. Any dispute arising hereunder shall be resolved in the competent courts in Amsterdam, The Netherlands, and the Parties hereby agree that venue and jurisdiction for any related proceedings arising hereunder shall lie exclusively with such courts; provided, however, that each Party may enforce its and its Affiliates’ intellectual property rights in any court, and similar governing body, of competent jurisdiction, including but not limited to equitable relief.\n11.\nExport Compliance\n11.1.\nLicensee shall comply with all applicable export and import control laws and regulations including but not limited to the US Export Administration Regulation (including restrictions on certain military end uses and military end users as specified in Section 15 C.F.R. § 744.21 and prohibited party lists issued by other federal governments), Catch-all regulations and all national and international embargoes. In particular, Licensee shall not directly or indirectly export, re-export, transfer or release any Licensed Materials in whole or in part or direct product thereof or technical data to any destination, person, entity or end use restricted or prohibited by applicable laws, without obtaining prior authorization from the applicable competent government authorities to the extent required by those laws. This provision shall survive termination or expiration of this Agreement.\n11.2.\nProhibition of Export to Russian Federation\n(a)\nWith respect to activities that fall under the scope of Article 12g, 12ga of Council Regulation (EU) No 833/2014, or Council Regulation (EU) No 765/2006 (as the case requires), Licensee (a) will not sell, export or re-export, directly or indirectly any item, and (b) will not sell, license or sublicense any intellectual property rights or trade secrets, to the Russian Federation or Belarus, or for use in the Russian Federation or Belarus.\n(b)\nLicensee will ensure that the purpose of paragraph (a) above is not frustrated by any third parties further down the commercial chain, including by either resellers, sublicensees, or both.\n(c)\nLicensee will set up and maintain an adequate monitoring mechanism to detect conduct by any third parties further down the commercial chain, including by either resellers, sublicensees, or both, that would frustrate the purpose of paragraph (a).\n(d)\nAny violation of paragraphs (a), (b) or (c) will constitute a material breach of this Agreement, and NXP will be entitled to seek appropriate remedies, including, but not limited to: (i) termination of this Agreement; (ii) suspension of any of its business relationships with Licensee, Licensee’s affiliates or both, until the breach of paragraph (a) above is remedied, and (iii) a plan to remedy the breach.\n(e)\nLicensee will immediately inform NXP about any problems in applying paragraphs (a), (b) or (c), above, including any relevant activities by third parties that could frustrate the purpose of paragraph (a). Licensee will make available to NXP information concerning compliance with the obligations under paragraphs (a), (b) and (c) within 2 weeks of the request for information.\n12.\nMiscellaneous. (A) Nothing in this Agreement shall create a joint venture, partnership or principal/agent relationship between the Parties. (B) NXP may assign this Agreement or any rights thereof to any of its Affiliates or any third party. Licensee shall not assign or transfer any of its rights or obligations hereunder without the prior written consent of NXP. (C) All notices to NXP required or permitted hereunder shall be in writing and shall be deemed delivered upon hand delivery or upon receipt if sent by world renown overnight courier or mailed by registered or certified mail, return receipt requested, postage prepaid, to NXP at its address set forth in the header of this Agreement or such other address of which NXP may notify Licensee from time to time. (D) A waiver of any right hereunder shall in no way waive any other rights. No waiver, alteration, modification or amendment of this Agreement shall be effective unless in writing and signed by both Parties. (E) In the event that any provision of this Agreement is held to be invalid, illegal or unenforceable, such provision shall be deemed amended to achieve the economic effect of the intent of the Parties in a valid, lawful and enforceable manner, or if not possible, then deleted and ineffective to the extent thereof, without affecting any other provision of this Agreement. (F) This Agreement constitutes the entire agreement regarding the subject matter hereof and supersedes all prior agreements, understandings and communications, oral and written, between the Parties regarding the subject matter hereof.\nAPPENDIX A\nOther License Grants and Restrictions:\nThe Licensed Software may include some or all of the following software, which is either 1) not NXP proprietary software or 2) NXP proprietary software subject to different terms than those in the Agreement. If the Software Content Register that accompanies the Licensed Software identifies any of the following Third Party Software or specific components of the NXP Proprietary Software, the following terms apply to the extent they deviate from the terms in the Agreement.\nACCEPTED AND AGREED\nLicensee (“Licensee”):\nBy: ____________________________________\nName: ____________________________________\nTitle: ____________________________________\nDate: ____________________________________\n____________________________________________________________________________________\nName of Company\n____________________________________________________________________________________\nRegistered office at (full address)\n____________________________________________________________________________________\nCountry"
+    }
+  ],
+  "documentNamespace": "https://nxp.com/spdx/1d6b6967-a760-4eb4-9f61-19cc9b3ea951",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-1d6b6967-a760-4eb4-9f61-19cc9b3ea951",
+      "name": "nfcfw_nci_reader",
+      "versionInfo": "PN7220_FW_02v05",
+      "licenseConcluded": "(LicenseRef-37d37522-de21-4495-aafe-149c29add306)",
+      "licenseDeclared": "(LicenseRef-37d37522-de21-4495-aafe-149c29add306)",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: Nxp Semiconductor",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-366d0d46-7869-4659-b8e9-bff0bdbf7aab",
+      "name": "CMSIS_5",
+      "versionInfo": "5.3.0",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "homepage": "https://github.com/ARM-software/CMSIS_5",
+      "downloadLocation": "https://github.com/ARM-software/CMSIS_5/tree/5.3.0",
+      "originator": "Organization: arm-software",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "7d5fce3b-e1f9-40ca-ad09-9d04da6cf0f3",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        },
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:github/ARM-software/CMSIS_5@5.3.0",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-88e330d7-52f9-4c48-9844-146aaacdc3e7",
+      "name": "mbed TLS",
+      "versionInfo": "2.25.0",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "homepage": "https://www.trustedfirmware.org/",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: armmbed",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "15e9dab0-bb9a-48c1-acfc-da0085990d81",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceLocator": "cpe:2.3:a:arm:mbed_tls:2.25.0:*:*:*:*:*:*:*",
+          "referenceType": "cpe23Type"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceLocator": "cpe:2.3:a:arm:mbed_tls:2.25.0:-:*:*:*:*:*:*",
+          "referenceType": "cpe23Type"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceLocator": "cpe:2.3:a:arm_ltd:mbedtls_formerly_polarssl:2.25.0:*:*:*:*:*:*:*",
+          "referenceType": "cpe23Type"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceLocator": "cpe:2.3:a:mbed:mbedtls:2.25.0:*:*:*:*:*:*:*",
+          "referenceType": "cpe23Type"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceLocator": "cpe:2.3:a:polarssl:polarssl:2.25.0:*:*:*:*:*:*:*",
+          "referenceType": "cpe23Type"
+        },
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:github/ARMmbed/mbedtls@v2.25.0",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-ac7a6761-ab1c-42b1-9d8d-fae51fe5eec5",
+      "name": "nfcfw-Silicon",
+      "versionInfo": "PN7642_B2",
+      "licenseConcluded": "LicenseRef-37d37522-de21-4495-aafe-149c29add306",
+      "licenseDeclared": "LicenseRef-37d37522-de21-4495-aafe-149c29add306",
+      "homepage": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: NXP",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-1d6b6967-a760-4eb4-9f61-19cc9b3ea951"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-1d6b6967-a760-4eb4-9f61-19cc9b3ea951",
+      "relationshipType": "STATIC_LINK",
+      "relatedSpdxElement": "SPDXRef-package-366d0d46-7869-4659-b8e9-bff0bdbf7aab"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-1d6b6967-a760-4eb4-9f61-19cc9b3ea951",
+      "relationshipType": "STATIC_LINK",
+      "relatedSpdxElement": "SPDXRef-package-88e330d7-52f9-4c48-9844-146aaacdc3e7"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-1d6b6967-a760-4eb4-9f61-19cc9b3ea951",
+      "relationshipType": "DYNAMIC_LINK",
+      "relatedSpdxElement": "SPDXRef-package-ac7a6761-ab1c-42b1-9d8d-fae51fe5eec5"
+    }
+  ]
+}
