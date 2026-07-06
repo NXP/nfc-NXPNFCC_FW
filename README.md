@@ -8,6 +8,12 @@
 | :-------------: |:-------------:| 
 | NXPNFCC_FW    |  git clone https://github.com/NXPNFCProject/NXPNFCC_FW.git |
 
+#### Supported Version 17 - SNxxx
+| Android Version        | NXP Release          | NXP Tag  | FW Version |
+| :-------------: |:---------------------:| :-----:| :---------:|
+| android-17.0.0_r1      |  17.07.00 (PN557/PN560/SN100/SN110/SN220/SN300) |  NFC_AR_00_7E800_17.07.00_OpnSrc | 01.10.6D 01.01.49 02.20.54 12.21.26 |
+
+
 #### Supported Version 16 - SNxxx
 | Android Version        | NXP Release          | NXP Tag  | FW Version |
 | :-------------: |:---------------------:| :-----:| :---------:|
